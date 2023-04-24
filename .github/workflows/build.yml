@@ -1,4 +1,4 @@
-name: Build Gradle project2
+name: Build Gradle project3
 on:
   pull_request:
 jobs:
@@ -22,3 +22,4 @@ jobs:
 
       - name: Run Test
         run: sample/gradlew test
+
