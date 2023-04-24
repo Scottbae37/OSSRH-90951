@@ -1,7 +1,6 @@
 name: Build Gradle project2
 on:
   pull_request:
-  push:
 jobs:
   build:
     runs-on: ubuntu-latest
