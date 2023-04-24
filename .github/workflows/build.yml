@@ -1,4 +1,4 @@
-name: Build Gradle project1
+name: Build Gradle project2
 on:
   pull_request:
   push:
